@@ -1,0 +1,4 @@
+PyQt5
+PyQt5Designer
+pathlib
+setuptools
