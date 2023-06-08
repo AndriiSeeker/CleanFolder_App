@@ -6,6 +6,6 @@ Also there is an additional function to normalize the file name.
 
 This app demonstrates my basic skills in Python and the PyQt5 graphics library.
 
-'''
+```
 Download: [here](https://github.com/andriyseeker22856/CleanFolder_App/releases/tag/clean_folder)
-'''
+```
