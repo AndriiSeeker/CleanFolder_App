@@ -1,0 +1,8 @@
+.venv
+.env
+__pycache__
+.idea
+app_design.spec
+dist
+style.egg-info
+CleandFolder.egg-info
